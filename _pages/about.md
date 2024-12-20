@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Done is better than perfect.
 
 profile:
   align: right
