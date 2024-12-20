@@ -17,5 +17,3 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am currently a senior student in mathematics of computation at UCLA. 
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
