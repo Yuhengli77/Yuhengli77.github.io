@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am actively looking for MLE and Data Scientist Intern oppoturnities. Here is my [CV](https://yuhengli77.github.io/cv/).
+I am actively looking for MLE and Data Scientist Intern oppoturnities. Here is my [CV](/cv/).
