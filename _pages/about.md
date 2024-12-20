@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Yuheng Li(李宇恒). I am currently a senior student in mathematics of computation at UCLA. My interests lie in Machine Learning/Deep Learning, Natural Language Processing, and Generative Models.
+Hello! My name is Yuheng Li (李宇恒). I am currently a senior student in mathematics of computation at UCLA. My interests lie in Machine Learning/Deep Learning, Natural Language Processing, and Generative Models.
 
 I am from Nanchang, Jiangxi and I currently live in Los Angeles.
 
