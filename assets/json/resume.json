@@ -43,7 +43,7 @@
       "studyType": "BS",
       "startDate": "2023-09",
       "endDate": "2025-06",
-      "courses": ["Data Science", "Deep Learning for Computer Vision", "Mathematical Stats", "Probability", "Numerical Methods", "Optimization", "Algorithms and Complexity", "Data Base Management"]
+      "courses": ["Data Science", "Deep Learning for Computer Vision", "Mathematical Stats", "Probability", "Numerical Methods", "Optimization", "Algorithms and Complexity", "Data Management Systems"]
     }
   ]
 }
