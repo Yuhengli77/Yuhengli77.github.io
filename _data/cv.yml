@@ -4,20 +4,27 @@
     - name: Full Name
       value: Yuheng Li
     - name: Label
-      value: Undergrad Student
+      value: Master Student
     - name: Email
-      value: yuheng0830 AT g.ucla.edu
+      value: yuhengli AT ucsd.edu
     - name: Phone
       value: (323) 998-3656
 
 - title: Education
   type: time_table
   contents:
+    - title: M.S. Computer Science
+      institution: University of California, San Diego
+      year: 09.2025 - 12.2026
+      description:
+        - Recommender Systems
+        - System for LLM and AI Agents
+        - Natural Language Processing
+  
     - title: B.S. Mathematics of Computation
       institution: University of California, Los Angeles
       year: 06.2023 - 06.2025
       description:
-        - Data Science
         - Deep Learning for Computer Vision
         - Algorithms and Complexity
         - Data Management Systems
@@ -25,29 +32,3 @@
         - Probability
         - Numerical Methods
         - Optimization
-   
-
-- title: Experience
-  type: time_table
-  contents:
-    - title:    Software Development Intern
-      institution:    Goldstate Securities Co., Ltd.
-      year: 07.2024 - 09.2024
-      description:
-        - Developed stock volume indicators, including volume ratio calculation, volume fluctuation monitoring, and price fluctuation analysis, to identify trading anomalies and provide actionable insights for market analysis.
-        - Employed Python to create methods for key volume and price indicators; managed large-scale stock trading datasets using Pandas and quantitative finance packages to support investment decisions.
-        - Designed a GUI to streamline file selection and enable easy configuration of take-profit and stop-loss parameters. Automated daily position reporting from raw Excel data and implemented email automation.
-
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Programming
-      items:
-        - Python(Pytorch)
-        - C++
-        - SQL
-        - Java
-    - title: Languages
-      items:
-        - Mandarin
-        - English
