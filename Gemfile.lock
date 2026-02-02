@@ -39,7 +39,9 @@ GEM
     faraday-excon (1.1.0)
     faraday-net_http (1.0.1)
     faraday-net_http_persistent (1.1.0)
-    ffi (1.15.1)
+    ffi (1.17.3-arm64-darwin)
+    ffi (1.17.3-x86_64-darwin)
+    ffi (1.17.3-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (215)
@@ -266,9 +268,12 @@ GEM
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
+    webrick (1.9.2)
     zeitwerk (2.4.2)
 
 PLATFORMS
+  arm64-darwin-21
+  arm64-darwin-24
   universal-darwin-19
   x86_64-linux
 
@@ -277,6 +282,7 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.2.19
