@@ -25,7 +25,7 @@ author:
   avatar           : "images/berkeley_eecs.JPG"
   bio              : "First-year M.S. in Computer Science @ UC San Diego. NLP / LLMs / AI Agents."
   location         : "La Jolla, CA"
-  employer         : "UC San Diego"
+  employer         : # "UC San Diego"
   pubmed           : 
   googlescholar    :  # e.g., https://scholar.google.com/citations?user=XXXX
   email            : "yuhengli@ucsd.edu"
@@ -40,10 +40,10 @@ author:
   github           : "Yuhengli77"
   google_plus      :
   keybase          :
-  instagram        : "liyuheng0830"
+  instagram        : # "liyuheng0830"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/yuhengli77"
+  linkedin         : "yuhengli77/"
   dblp             : 
   orcid            : 
   pinterest        :
