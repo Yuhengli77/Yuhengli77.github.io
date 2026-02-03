@@ -16,8 +16,8 @@ I grew up in Nanchang, Jiangxi, and I’m now based in La Jolla, California.
 You can find my resume here: [Resume](/files/Resume_Yuheng.pdf).
 
 
-# 🔥 News
-- *Jan. 2026*: &nbsp;🎉🎉 My co-authored paper "SourceBench: Can AI Answers Reference Quality Web Sources?" is submitted to **ICML 2026**(under review).
+<!-- # 🔥 News
+- *Jan. 2026*: &nbsp;🎉🎉 My co-authored paper "SourceBench: Can AI Answers Reference Quality Web Sources?" is submitted to **ICML 2026**(under review). -->
 
 
 <span class='anchor' id='education'></span>
