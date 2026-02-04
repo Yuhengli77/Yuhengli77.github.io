@@ -16,11 +16,13 @@ I grew up in Nanchang, Jiangxi, and I’m now based in La Jolla, California.
 You can find my resume here: [Resume](/files/Resume_Yuheng.pdf).
 
 
-<!-- # 🔥 News
-- *Jan. 2026*: &nbsp;🎉🎉 My co-authored paper "SourceBench: Can AI Answers Reference Quality Web Sources?" is submitted to **ICML 2026**(under review). -->
+# 🔥 News
+- *Feb. 2026*: &nbsp;🧑‍💻 I’m actively seeking ML/AI internships for Summer 2026. Feel free to reach out if my background aligns with your team.
+- *Jun. 2025*: &nbsp;🎓 I graduated from UCLA!!!
+- *Apr. 2025*: &nbsp;🙌 I'm happy to share that I will join Advance.AI as a Machine Learning Engineer Intern this summer.
 
 
-<span class='anchor' id='education'></span>
+
 # 🎓 Education
 - *Sep. 2025 - Present*, <a href="https://ucsd.edu/"><img class="svg" src="/images/UCSD_logo.svg" width="60pt"></a> University of California, San Diego — M.S. in Computer Science
 - *Jun. 2023 - Jun. 2025*, <a href="https://ucla.edu/"><img class="svg" src="/images/UCLA_blue.svg" width="35pt"></a> University of California, Los Angeles — B.S. in Mathematics of Computation
