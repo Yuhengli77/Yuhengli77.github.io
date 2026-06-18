@@ -1,5 +1,7 @@
 # main navigation links
 main:
+  - title: "Blog"
+    url: "/blog/"
   # - title: "About"
   #   url: "/#about-me"
   # - title: "Education"

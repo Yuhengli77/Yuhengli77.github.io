@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-Hello! My name is Yuheng Li (李宇恒). I’m currently a first-year M.S. student in Computer Science at UC San Diego. My research interests include Natural Language Processing (NLP), Large Language Models (LLMs), and AI Agents.
+My name is Yuheng Li (李宇恒). I'm an M.S. CS student at UC San Diego, passionate about LLMs and their real-world applications — particularly retrieval engineering (vector RAG, BM25) and post-training (SFT, RL). I'm also actively expanding into search & recommendation systems, with growing interest in generative recommendation.
 
 I grew up in Nanchang, Jiangxi, and I’m now based in La Jolla, California.
 
@@ -17,6 +17,7 @@ You can find my resume here: [Resume](/files/Resume_Yuheng.pdf).
 
 
 # 🔥 News
+- *Jun. 2026*: I'm starting my summer internship at Molex as a Machine Learning Engineer Intern! Excited to apply my skills in a new industry and learn from the team.
 - *Feb. 2026*: &nbsp;🧑‍💻 I’m actively seeking ML/AI internships for Summer 2026. Feel free to reach out if my background aligns with your team.
 - *Jun. 2025*: &nbsp;🎓 I graduated from UCLA!!!
 - *Apr. 2025*: &nbsp;🙌 I'm happy to share that I will join Advance.AI as a Machine Learning Engineer Intern this summer.
@@ -30,11 +31,19 @@ You can find my resume here: [Resume](/files/Resume_Yuheng.pdf).
 
 <span class='anchor' id='internships'></span>
 # 💻 Internship Experience
+- **Molex**, Fremont, CA  
+  *Machine Learning Engineer Intern*  
+  *Jun. 2026 - Sep. 2026*  
+  - Incoming! Stay tuned for updates.
+
 - **Advance.AI**, Singapore  
   *Machine Learning Engineer Intern*  
   *Jun. 2025 - Sep. 2025*
-  - Designed and deployed an end-to-end OCR-LLM system for automated data annotation, fine-tuned and evaluated LayoutLM to improve F1-score by 11%.
+  - LLM driven data sythesis.
+  - LayoutLM model fine-tuning for document data extraction.
 - **Goldstate Securities Co., Ltd.**, Shenzhen, China  
   *Data Scientist Intern*  
   *Jul. 2024 - Sep. 2024*  
-  - Built an LLM-driven RAG application to automate portfolio analysis; developed an LSTM model for market trend prediction.
+  <!-- - Built a data pipeline for processing and analyzing financial market data and visualizations, designed an LLM based tool for daily report. -->
+  - Data pipeline for analyzing and visualizing financial market data.
+  - LLM based tool for generating daily trading reports.
