@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-My name is Yuheng Li (李宇恒). I'm an M.S. CS student at UC San Diego, passionate about LLMs and their real-world applications — particularly retrieval engineering (vector RAG, BM25) and post-training (SFT, RL). I'm also actively expanding into search & recommendation systems, with growing interest in generative recommendation.
+My name is Yuheng Li (李宇恒). I'm an M.S. CS student at UC San Diego, passionate about LLMs and their real-world applications — particularly Agent engineering and post-training (SFT, RL). I'm also actively expanding into search & recommendation systems, with growing interest in generative recommendation.
 
 I grew up in Nanchang, Jiangxi, and I’m now based in La Jolla, California.
 
@@ -34,7 +34,7 @@ You can find my resume here: [Resume](/files/Resume_Yuheng.pdf).
 - **Molex**, Fremont, CA  
   *Machine Learning Engineer Intern*  
   *Jun. 2026 - Sep. 2026*  
-  - Incoming! Stay tuned for updates.
+  - AI Agent for Optical Design and Optimization.
 
 - **Advance.AI**, Singapore  
   *Machine Learning Engineer Intern*  
