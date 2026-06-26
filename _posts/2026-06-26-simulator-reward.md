@@ -34,7 +34,7 @@ tweak the load resistance. Then they simulate again.
 
 This is the loop: **propose → simulate → interpret → adjust → repeat**.
 
-![The propose-simulate-interpret-adjust agent loop]({{ '/images/ai_for_design/agent_loop.png' | relative_url }})
+![The propose-simulate-interpret-adjust agent loop]({{ '/images/ai_for_design/agent_loop.png' | relative_url }}){: style="max-width:600px;width:100%;display:block;margin:0 auto;"}
 
 Two things are worth noting about this loop. First, the proposal step is heavily
 loaded with tacit knowledge, the heuristics that experts cannot always fully
