@@ -24,7 +24,7 @@ baidu_site_verification  :  # optional: Baidu verification
 author:
   name             : "Yuheng Li"
   avatar           : "images/berkeley_eecs.JPG"
-  bio              : "First-year M.S. in Computer Science @ UC San Diego. NLP / LLMs / AI Agents."
+  bio              : "Second-year M.S. in Computer Science @ UC San Diego. NLP / LLMs / AI Agents."
   location         : "La Jolla, CA"
   employer         : # "UC San Diego"
   pubmed           : 
