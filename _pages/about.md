@@ -17,7 +17,7 @@ You can find my resume here: [Resume](/files/Resume_Yuheng.pdf).
 
 
 # 🔥 News
-- *Sep. 2026*: 🎉 Our paper [SourceBench: Can AI Answers Reference Quality Web Sources?](https://arxiv.org/abs/2602.16942) was accepted as a poster at NeurIPS 2026!
+- *Sep. 2026*: 🎉 Our paper [SourceBench: Can AI Answers Reference Quality Web Sources?](https://arxiv.org/abs/2602.16942) was accepted as a poster at **NeurIPS 2026**!
 - *Jun. 2026*: 📝 I published two new blog posts: [The Simulator Is the Reward](/blog/simulator-reward/) and [Decode-Free Information Extraction](/blog/decodefree/).
 - *Jun. 2026*: I'm starting my summer internship at Molex as a Machine Learning Engineer Intern! Excited to apply my skills in a new industry and learn from the team.
 - *Feb. 2026*: &nbsp;🧑‍💻 I’m actively seeking ML/AI internships for Summer 2026. Feel free to reach out if my background aligns with your team.
@@ -28,7 +28,7 @@ You can find my resume here: [Resume](/files/Resume_Yuheng.pdf).
 # 📄 Publications
 - **[SourceBench: Can AI Answers Reference Quality Web Sources?](https://arxiv.org/abs/2602.16942)**<br>
   Hexi Jin\*, Stephen Liu\*, **Yuheng Li**\*, Simran Malik, Yiying Zhang.<br>
-  *Conference on Neural Information Processing Systems (NeurIPS 2026).* Accepted as a poster.<br>
+  *Conference on Neural Information Processing Systems (**NeurIPS 2026**).* Accepted as a poster.<br>
   \*Co-first authors.
 
 
