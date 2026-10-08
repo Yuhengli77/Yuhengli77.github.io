@@ -29,7 +29,7 @@ You can find my resume here: [Resume](/files/Resume_Yuheng.pdf).
 - **[SourceBench: Can AI Answers Reference Quality Web Sources?](https://arxiv.org/abs/2602.16942)**<br>
   Hexi Jin\*, Stephen Liu\*, **Yuheng Li**\*, Simran Malik, Yiying Zhang.<br>
   *Conference on Neural Information Processing Systems (**NeurIPS 2026**).* Accepted as a poster.<br>
-  \*Co-first authors.
+  \*Equal contribution.
 
 
 
