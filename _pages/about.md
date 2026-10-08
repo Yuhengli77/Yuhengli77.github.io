@@ -16,7 +16,7 @@ I grew up in Nanchang, Jiangxi, and I’m now based in La Jolla, California.
 You can find my resume here: [Resume](/files/Resume_Yuheng.pdf).
 
 
-# 🔥 News
+# News
 - *Sep. 2026*: 🎉 Our paper [SourceBench: Can AI Answers Reference Quality Web Sources?](https://arxiv.org/abs/2602.16942) was accepted as a poster at **NeurIPS 2026**!
 - *Jun. 2026*: 📝 I published two new blog posts: [The Simulator Is the Reward](/blog/simulator-reward/) and [Decode-Free Information Extraction](/blog/decodefree/).
 - *Jun. 2026*: I'm starting my summer internship at Molex as a Machine Learning Engineer Intern! Excited to apply my skills in a new industry and learn from the team.
@@ -25,7 +25,7 @@ You can find my resume here: [Resume](/files/Resume_Yuheng.pdf).
 - *Apr. 2025*: &nbsp;🙌 I'm happy to share that I will join Advance.AI as a Machine Learning Engineer Intern this summer.
 
 
-# 📄 Publications
+# Publications
 - **[SourceBench: Can AI Answers Reference Quality Web Sources?](https://arxiv.org/abs/2602.16942)**<br>
   Hexi Jin\*, Stephen Liu\*, **Yuheng Li**\*, Simran Malik, Yiying Zhang.<br>
   *Conference on Neural Information Processing Systems (**NeurIPS 2026**).* Accepted as a poster.<br>
@@ -33,13 +33,13 @@ You can find my resume here: [Resume](/files/Resume_Yuheng.pdf).
 
 
 
-# 🎓 Education
+# Education
 - *Sep. 2025 - Present*, <a href="https://ucsd.edu/"><img class="svg" src="/images/UCSD_logo.svg" width="60pt"></a> University of California, San Diego — M.S. in Computer Science
 - *Jun. 2023 - Jun. 2025*, <a href="https://ucla.edu/"><img class="svg" src="/images/UCLA_blue.svg" width="35pt"></a> University of California, Los Angeles — B.S. in Mathematics of Computation
 
 
 <span class='anchor' id='internships'></span>
-# 💻 Internship Experience
+# Internship Experience
 - **Molex**, Fremont, CA  
   *Machine Learning Engineer Intern*  
   *Jun. 2026 - Sep. 2026*  
